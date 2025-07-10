@@ -136,4 +136,4 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
 
 <bold>Thanks a lot,</bold><br/>
                                                                                                         Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
+                                                                                                         <b>Wasif Mahmood</b>
